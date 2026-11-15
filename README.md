@@ -14,7 +14,7 @@ A theatre hires out costumes before every show and keeps losing track of which c
 | M5 | P. Sai Ram | 6 – Postman and README |
 
 ## Tech stack
-Node.js · Express · SQLite (sqlite3)
+Node.js · Express · SQLite sqlite3
 
 ## How to run
 ```bash
